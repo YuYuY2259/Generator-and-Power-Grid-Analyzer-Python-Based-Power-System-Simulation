@@ -12,6 +12,8 @@ Advanced Engineering Mode: Calculates Voltage Regulation (VR) and Efficiency whi
 
 Safety Alerts: Automated warnings for "Under-Excited" (capacitive) loading risks.
 
+https://www.youtube.com/watch?v=yDP3S1XX7_g
+
 
 Tech Stack: Python, PyQt6, Matplotlib
 
