@@ -5,6 +5,7 @@ This project performs a steady-state analysis of a synchronous generator deliver
 
 Key Features Demonstrated:
 
+ 
 
 Interactive Control Panel: Real-time adjustment of Active Power, Power Factor, and Reactance. 
 
