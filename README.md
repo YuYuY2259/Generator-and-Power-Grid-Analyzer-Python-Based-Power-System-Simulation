@@ -2,9 +2,12 @@
 This project performs a steady-state analysis of a synchronous generator delivering power to a high-voltage grid via a step-up transformer. Using the Per-Unit system, the software simplifies complex impedance calculations and visualizes the system's behavior in real-time. 
 
 
+
 Key Features Demonstrated:
 
+
 Interactive Control Panel: Real-time adjustment of Active Power, Power Factor, and Reactance. 
+
 
 Dynamic Phasor Diagram: Visualizes the vector relationship between Internal EMF, Terminal Voltage, and Grid Voltage. 
 
